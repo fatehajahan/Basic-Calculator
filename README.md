@@ -15,12 +15,13 @@ A simple, responsive calculator built using **React**, **JavaScript**, **HTML**,
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-- [React](https://reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Tailwind CSS](https://tailwindcss.com/)
-- HTML5
+- **React** – UI library
+- **JavaScript** – Logic handling
+- **Tailwind CSS** – Styling
+- **HTML5** – Markup
+- **Vite** – Fast build tool
 
 ---
 
@@ -32,7 +33,24 @@ A simple, responsive calculator built using **React**, **JavaScript**, **HTML**,
 
 ## 📂 Folder Structure
 
-
+basic-calculator/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ └── Calculator.jsx
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── image.png
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
 
 Currently, two official plugins are available:
 
