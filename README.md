@@ -1,6 +1,38 @@
-# React + Vite
+# 🔢 Basic Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive calculator built using **React**, **JavaScript**, **HTML**, and **Tailwind CSS**. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with a clean and modern UI.
+
+---
+
+## 🚀 Features
+
+- Perform basic calculations: addition, subtraction, multiplication, and division
+- Responsive and mobile-friendly design
+- Real-time input display
+- Clear and delete functionality
+- Built using modern React hooks
+- Styled with Tailwind CSS
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5
+
+---
+
+## 📸 Screenshots
+
+![alt text](image.png)
+
+---
+
+## 📂 Folder Structure
+
+
 
 Currently, two official plugins are available:
 
